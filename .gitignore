@@ -1,0 +1,12 @@
+node_modules
+.env
+private4.key
+keen-virtue-441101-s6-629f43560920.json
+venv
+callbot
+private7.key
+google-cloud-sdk
+callbot
+__pycache__
+google-cloud-sdk
+tts.js

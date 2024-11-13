@@ -1,0 +1,5 @@
+노드 파일 : text_01.js (vonage랑 구글클라우드랑 연동)
+STT 파일 : callcenter.py (GOOGLE CLOUD STT API 사용)
+임시 랭체인 파일 : callbot.py (민식님거 일단 가져옴)
+원하는 문구대로 wav파일 생성 : wav.py 
+간단한 STT 테스트 : why.py

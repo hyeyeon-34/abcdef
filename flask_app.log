@@ -1,0 +1,17 @@
+2024-11-11 16:53:35,843 - google.auth._default - DEBUG - Checking ./keen-virtue-441101-s6-629f43560920.json for explicit credentials as part of auth process...
+2024-11-11 16:53:36,318 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.0.178:5001
+2024-11-11 16:53:36,318 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-11-11 16:53:36,319 - werkzeug - INFO -  * Restarting with stat
+2024-11-11 16:53:36,848 - google.auth._default - DEBUG - Checking ./keen-virtue-441101-s6-629f43560920.json for explicit credentials as part of auth process...
+2024-11-11 16:53:37,163 - werkzeug - WARNING -  * Debugger is active!
+2024-11-11 16:53:37,172 - werkzeug - INFO -  * Debugger PIN: 330-964-944
+2024-11-11 17:02:15,934 - werkzeug - INFO -  * Detected change in '/Users/hyeyeon/Desktop/project/calltest/callbot.py', reloading
+2024-11-11 17:02:16,072 - werkzeug - INFO -  * Restarting with stat
+2024-11-11 17:02:16,953 - google.auth._default - DEBUG - Checking ./keen-virtue-441101-s6-629f43560920.json for explicit credentials as part of auth process...
+2024-11-11 17:02:17,326 - werkzeug - WARNING -  * Debugger is active!
+2024-11-11 17:02:17,336 - werkzeug - INFO -  * Debugger PIN: 330-964-944
+2024-11-11 17:05:41,653 - werkzeug - INFO -  * Detected change in '/Users/hyeyeon/Desktop/project/calltest/callcenter.py', reloading
+2024-11-11 17:05:41,792 - werkzeug - INFO -  * Restarting with stat
